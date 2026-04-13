@@ -20,7 +20,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-> Expert user of **Power BI** (DAX, data modeling), **Tableau** (interactive dashboards), and **Microsoft Excel** (Power Query, Pivot Tables).
+> Expertise of **Power BI** (DAX, data modeling), **Tableau** (interactive dashboards), and **Microsoft Excel** (Power Query, Pivot Tables).
 
 ---
 
@@ -87,9 +87,9 @@ Certified by **Microsoft Learn (2026)**, specializing in:
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/cybertechguruji/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cakram00@gmail.com)
 
 ---
 
