@@ -1,5 +1,6 @@
-# 👋 Professional Portfolio — Mohammad Akram Chaudhary
-### Data Analyst
+# Greetings👋 
+# I am Mohammad Akram Chaudhary
+### Result Driven Data Analyst
 
 ---
 
